@@ -9,7 +9,12 @@ All data used in this project was sourced from the World Health Organization (WH
 
 * Childhood overweight prevalence (ages 5–19)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59f5169d-c18e-4d30-b227-89eca41205b5" />
+
+
 * Insufficient physical activity among adolescents (ages 11–17)
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9017600-9185-421c-895e-9d068330701d" />
 
 
 Data was aggregated at country level and covered the period 2001–2016, which represents the overlapping time window available for both indicators.
@@ -41,10 +46,20 @@ This project is exploratory and analytical in nature, not predictive or prescrip
 ### Human-led analysis
 
 * Data cleaning, filtering and aggregation were performed manually in Excel
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93df4b1c-99fb-47c3-9bb8-75f87b39aaa1" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f65acc6c-757c-43e2-83c3-10aadaf7a955" />
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/436b075a-3602-487e-888f-223536034dd0" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b714b70-a2f0-40db-9668-c31ec33cdd56" />
 
 * Pivot tables and charts were used to visualise trends over time and across countries
+    
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0c3ac1b-ac07-47bd-ab1c-84678d586ace" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27fa34e6-7d4c-4e09-a874-cbe5df791db6" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10c292d6-6eee-42da-aaeb-1f8eef2e4517" />
 
 * All interpretations, conclusions and limitations were identified and written manually
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51da276e-2094-441a-beec-7b447de19e99" />
 
 * Care was taken to avoid causal language and overgeneralisation
 
@@ -58,6 +73,8 @@ AI (ChatGPT / Copilot-style tools) was used selectively to:
 * Check clarity and neutrality of written insights
 
 * Assist with structuring observations (e.g. separating insights, limitations and conclusions)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/e9841184-8bb0-478b-85f6-b34d1ff06b82" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ef5232b-a5f7-48de-b88a-b44d51cc6d6a" />
 
 
 AI was not used to:
@@ -109,7 +126,7 @@ Final judgement, framing, and ethical responsibility remained entirely human-led
 * Conclusions are framed to support understanding, not judgement or policy prescription.
 
 
-### Transferability to Business Contexts
+## Transferability to Business Contexts
 
 Although based on public health data, the analytical approach used in this project is transferable to many business and technology contexts, including:
 
