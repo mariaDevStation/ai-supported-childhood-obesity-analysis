@@ -1,110 +1,115 @@
-Overview
+## Overview
 
-This project explores long-term trends in childhood overweight and physical inactivity among adolescents across selected European countries using publicly available World Health Organization (WHO) data.
-The analysis focuses on identifying high-level patterns, differences between countries, and potential areas of concern, while explicitly avoiding causal claims. The project demonstrates responsible data analysis, critical interpretation, and transparent use of AI as a supporting tool rather than a decision-maker.
+This project explores longer-term trends, over a 15-year period (2001–2016), in childhood overweight and physical inactivity among adolescents, across selected European countries using publicly available World Health Organization (WHO) data.
+The analysis focuses on identifying high-level patterns, differences between countries and potential areas of concern, while explicitly avoiding causal claims. The project demonstrates responsible data analysis, critical interpretation and transparent use of AI as a supporting tool rather than a decision-maker.
 
-Data Sources (WHO)
+### Data Sources (WHO)
 
 All data used in this project was sourced from the World Health Organization (WHO) Global Health Observatory:
 
-Childhood overweight prevalence (ages 5–19)
+* Childhood overweight prevalence (ages 5–19)
 
-Insufficient physical activity among adolescents (ages 11–17)
+* Insufficient physical activity among adolescents (ages 11–17)
+
 
 Data was aggregated at country level and covered the period 2001–2016, which represents the overlapping time window available for both indicators.
 
-Countries included in the analysis:
+### Country Selection Rationale
 
-United Kingdom
+The countries included in this analysis (United Kingdom, Poland, Sweden, France and Croatia) were selected to provide a diverse European comparison across different geographic regions, socioeconomic contexts and public health profiles.
 
-Poland
+The United Kingdom and France represent large Western European countries with established public health monitoring systems. Poland and Croatia were included to reflect Central and Eastern European contexts, where recent reports suggest changing childhood overweight trends. Sweden was selected due to its strong public health reputation and contrasting activity patterns.
 
-Sweden
+This selection was intended to support comparative analysis rather than to provide a representative sample of all European countries.
 
-France
+### The objective of this project was to:
 
-Croatia
+* Examine trends in childhood overweight and adolescent physical inactivity over time
 
-Objective
+* Compare patterns across countries with different social and environmental contexts
 
-The objective of this project was to:
+* Explore whether changes in physical activity levels align with changes in overweight prevalence
 
-Examine trends in childhood overweight and adolescent physical inactivity over time
+* Practise responsible interpretation of population-level health data, including uncertainty and limitations
 
-Compare patterns across countries with different social and environmental contexts
-
-Explore whether changes in physical activity levels align with changes in overweight prevalence
-
-Practise responsible interpretation of population-level health data, including uncertainty and limitations
 
 This project is exploratory and analytical in nature, not predictive or prescriptive.
 
-Method (Human + AI)
-Human-led analysis
 
-Data cleaning, filtering, and aggregation were performed manually in Excel
+## Method (Human + AI)
 
-Pivot tables and charts were used to visualise trends over time and across countries
+### Human-led analysis
 
-All interpretations, conclusions, and limitations were identified and written manually
+* Data cleaning, filtering and aggregation were performed manually in Excel
 
-Care was taken to avoid causal language and overgeneralisation
+* Pivot tables and charts were used to visualise trends over time and across countries
 
-AI-assisted support
+* All interpretations, conclusions and limitations were identified and written manually
+
+* Care was taken to avoid causal language and overgeneralisation
+
+
+### AI-assisted support
 
 AI (ChatGPT / Copilot-style tools) was used selectively to:
 
-Summarise high-level trends once charts were created
+* Summarise high-level trends once charts were created
 
-Check clarity and neutrality of written insights
+* Check clarity and neutrality of written insights
 
-Assist with structuring observations (e.g. separating insights, limitations, and conclusions)
+* Assist with structuring observations (e.g. separating insights, limitations and conclusions)
+
 
 AI was not used to:
 
-Interpret raw data independently
+* Interpret raw data independently
 
-Draw conclusions without human review
+* Draw conclusions without human review
 
-Make recommendations or policy claims
+* Make recommendations or policy claims
+
 
 Final judgement, framing, and ethical responsibility remained entirely human-led.
 
-Key Insights
 
-Childhood overweight trends vary considerably across countries, with some showing steady increases and others remaining relatively stable.
+## Key Insights
 
-Insufficient physical activity among adolescents remains consistently high across all analysed countries throughout the observed period.
+* Childhood overweight trends vary considerably across countries, with some showing steady increases and others remaining relatively stable.
 
-In some cases, changes in physical activity levels do not align directly with changes in childhood overweight prevalence.
+* Insufficient physical activity among adolescents remains consistently high across all analysed countries throughout the observed period.
 
-Sweden shows a notable increase in childhood overweight over time, which coincides with a rise in physical inactivity from around 2009.
+* In some cases, changes in physical activity levels do not align directly with changes in childhood overweight prevalence.
 
-At a population level, lower physical activity does not necessarily translate into higher childhood overweight prevalence, suggesting the influence of additional factors.
+* Sweden shows a notable increase in childhood overweight over time, which coincides with a rise in physical inactivity from around 2009.
 
-Risks & Limitations
+* At a population level, lower physical activity does not necessarily translate into higher childhood overweight prevalence, suggesting the influence of additional factors.
 
-Obesity data from 1990–2000 was excluded due to the absence of corresponding physical activity data.
 
-The analysis covers a limited time window (2001–2016); more recent trends may differ.
+## Risks & Limitations
 
-Age ranges differ between indicators (overweight: ages 5–19; physical activity: ages 11–17), limiting direct comparability.
+* Obesity data from 1990–2000 was excluded due to the absence of corresponding physical activity data.
 
-Data is aggregated at country level and cannot explain individual behaviour or causal mechanisms.
+* The analysis covers a limited time window (2001–2016); more recent trends may differ.
 
-Observed associations should not be interpreted as evidence of causation.
+* Age ranges differ between indicators (overweight: ages 5–19; physical activity: ages 11–17), limiting direct comparability.
 
-Ethical Considerations
+* Data is aggregated at country level and cannot explain individual behaviour or causal mechanisms.
 
-The project uses only publicly available, aggregated data, with no personal or identifiable information.
+* Observed associations should not be interpreted as evidence of causation.
 
-Findings are presented cautiously to avoid stigma, blame, or oversimplification of complex public health issues.
 
-AI was used transparently and responsibly, with human accountability retained for all interpretations.
+## Ethical Considerations
 
-Conclusions are framed to support understanding, not judgement or policy prescription.
+* The project uses only publicly available, aggregated data, with no personal or identifiable information.
 
-Transferability to Business Contexts
+* Findings are presented cautiously to avoid stigma, blame or oversimplification of complex public health issues.
+
+* AI was used transparently and responsibly, with human accountability retained for all interpretations.
+
+* Conclusions are framed to support understanding, not judgement or policy prescription.
+
+
+### Transferability to Business Contexts
 
 Although based on public health data, the analytical approach used in this project is transferable to many business and technology contexts, including:
 
@@ -116,16 +121,17 @@ Responsible AI use: combining AI-assisted summarisation with human judgement and
 
 Stakeholder communication: presenting complex data clearly while acknowledging limitations
 
-Regulated environments: working with incomplete data, constraints, and audit-ready reasoning
+Regulated environments: working with incomplete data, constraints and audit-ready reasoning
 
-This project demonstrates structured thinking, ethical awareness, and disciplined analysis — skills applicable to technology, consulting, governance, and data-focused roles.
+This project demonstrates structured thinking, ethical awareness and disciplined analysis — skills applicable to technology, consulting, governance and data-focused roles.
 
-Why This Project Matters
+
+## Why This Project Matters
 
 This project demonstrates how real-world data can challenge intuitive assumptions and highlights the importance of evidence-based analysis in complex social and business problems. By comparing childhood overweight trends with physical activity data across multiple countries using WHO indicators, the analysis shows that outcomes cannot be explained by a single factor alone.
 
-Rather than treating data as a source of simple answers, the project applies a risk-aware, analytical approach: aligning datasets with different scopes, identifying limitations, and interpreting results cautiously. This reflects the type of judgement required in regulated environments, where decisions must be defensible, transparent, and based on imperfect information.
+Rather than treating data as a source of simple answers, the project applies a risk-aware, analytical approach: aligning datasets with different scopes, identifying limitations and interpreting results cautiously. This reflects the type of judgement required in regulated environments, where decisions must be defensible, transparent and based on imperfect information.
 
-The project also illustrates how human insight and AI tools can be used together responsibly. AI was used to support pattern summarisation, while human judgement was applied to contextualise findings, avoid causal claims, and recognise ethical boundaries. This mirrors real business use of AI, where tools augment analysis but accountability remains with people.
+The project also illustrates how human insight and AI tools can be used together responsibly. AI was used to support pattern summarisation, while human judgement was applied to contextualise findings, avoid causal claims and recognise ethical boundaries. This mirrors real business use of AI, where tools augment analysis but accountability remains with people.
 
-Overall, this work shows the ability to translate complex data into clear insights, acknowledge uncertainty, and communicate findings in a way that supports informed decision-making — skills that are directly transferable to roles involving analytics, risk, governance, and technology-enabled business change.
+Overall, this work shows the ability to translate complex data into clear insights, acknowledge uncertainty and communicate findings in a way that supports informed decision-making — skills that are directly transferable to roles involving analytics, risk, governance and technology-enabled business change.
