@@ -119,3 +119,13 @@ Stakeholder communication: presenting complex data clearly while acknowledging l
 Regulated environments: working with incomplete data, constraints, and audit-ready reasoning
 
 This project demonstrates structured thinking, ethical awareness, and disciplined analysis — skills applicable to technology, consulting, governance, and data-focused roles.
+
+Why This Project Matters
+
+This project demonstrates how real-world data can challenge intuitive assumptions and highlights the importance of evidence-based analysis in complex social and business problems. By comparing childhood overweight trends with physical activity data across multiple countries using WHO indicators, the analysis shows that outcomes cannot be explained by a single factor alone.
+
+Rather than treating data as a source of simple answers, the project applies a risk-aware, analytical approach: aligning datasets with different scopes, identifying limitations, and interpreting results cautiously. This reflects the type of judgement required in regulated environments, where decisions must be defensible, transparent, and based on imperfect information.
+
+The project also illustrates how human insight and AI tools can be used together responsibly. AI was used to support pattern summarisation, while human judgement was applied to contextualise findings, avoid causal claims, and recognise ethical boundaries. This mirrors real business use of AI, where tools augment analysis but accountability remains with people.
+
+Overall, this work shows the ability to translate complex data into clear insights, acknowledge uncertainty, and communicate findings in a way that supports informed decision-making — skills that are directly transferable to roles involving analytics, risk, governance, and technology-enabled business change.
